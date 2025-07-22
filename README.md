@@ -12,6 +12,6 @@ Currently aspiring to be a Software Engineer.
 ![DhanaNugraha's Stats](https://github-readme-stats.vercel.app/api?username=DhanaNugraha&theme=nightowl&show_icons=true&hide_border=true&count_private=false)</br>
 ![DhanaNugraha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhanaNugraha&theme=nightowl&hide_border=true)</br>
 ![DhanaNugraha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanaNugraha&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
-[![DhanaNugraha's Trophy](https://github-profile-trophy.vercel.app/?username=DhanaNugraha&theme=onedark)](https://github.com/DhanaNugraha/github-profile-trophy)
+[![DhanaNugraha's Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/thegoner24/github-profile-trophy)
 
 
