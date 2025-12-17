@@ -4,11 +4,7 @@
 [![GitHub DhanaNugraha](https://img.shields.io/github/followers/DhanaNugraha?label=follow&style=social)](https://github.com/DhanaNugraha)
 ![Codewars Badge](https://www.codewars.com/users/DhanaNugraha/badges/small)
 
-A Chemical Engineering Graduate :mortar_board: that fell in love with python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="15">. </br>
-Currently aspiring to be a Software Engineer.
-
 ![DhanaNugraha's Stats](https://github-readme-stats.vercel.app/api?username=DhanaNugraha&theme=nightowl&show_icons=true&hide_border=true&count_private=false)</br>
-![DhanaNugraha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DhanaNugraha&theme=nightowl&hide_border=true)</br>
 ![DhanaNugraha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DhanaNugraha&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
 
